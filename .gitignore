@@ -6,3 +6,4 @@
 
 # lock files
 *-lock.json
+.vercel

@@ -11,5 +11,8 @@
       "src": "/(.*)",
       "dest": "dist/index.js"
     }
-  ]
+  ],
+  "auth": {
+    "redirects": false
+  }
 }
